@@ -36,8 +36,6 @@ The movie recommender system is deployed using Streamlit
     ```
 2. Open your web browser and go to `http://localhost:8501` to view the app.
 
-    ```
-
 ## Acknowledgments
 
 - [Streamlit](https://streamlit.io/)
