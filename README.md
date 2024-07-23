@@ -13,6 +13,11 @@ The movie recommender system is deployed using Streamlit
 - **Content-Based Recommendations**: Provides movie recommendations based on metadata like genre, director, description, actors, etc.
 - **User-Friendly Interface**: Interactive UI built with Streamlit for ease of use.
 
+## Directory Structure
+
+- `Pre-processor.py`: Contains the preparation and pre-processing of movie data to work with text information of movies, i.e., 'title', 'director', 'cast', 'description'.
+- `Recommender_sys.py`: Contains all the necessary functions for recommending the movies based on the given preferences of users.
+- `Streamlit.py`: The Streamlit code to run the application.
 ## Installation
 
 1. Clone the repository:
